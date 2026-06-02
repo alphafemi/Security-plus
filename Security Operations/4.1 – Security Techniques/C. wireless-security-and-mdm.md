@@ -45,7 +45,7 @@ A **site survey** provides a detailed understanding of the wireless environment 
 | **RF jamming** | Transmitting interference on wireless frequencies causes denial of service |
 | **Rogue access point** | Unauthorized AP on the network provides attackers easy network access |
 
-> See also: [Wireless Attacks](wireless-attacks.md) for deauthentication and RF jamming detail.
+
 
 ---
 
