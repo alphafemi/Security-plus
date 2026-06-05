@@ -4,7 +4,7 @@
 
 A firewall is only as effective as its rules. Understanding how rule bases are structured, how to read and write ACL rules, and how IPS signatures work is essential for configuring and maintaining network security controls.
 
-> **See also:** [Firewalls](firewalls.md) for an overview of firewall types (traditional, UTM, NGFW, WAF) · [IDS & IPS](ids-and-ips.md) for inline vs. passive IPS deployment
+
 
 ---
 
